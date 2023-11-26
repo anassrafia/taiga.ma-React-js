@@ -1,0 +1,11 @@
+.icons:hover{
+    cursor: pointer;
+    color: #80828a;
+    transition: 0.2s;
+}
+
+.logo:hover{
+    transform: scale(1.05);
+    transition: 0.4s;
+    cursor: pointer;
+}

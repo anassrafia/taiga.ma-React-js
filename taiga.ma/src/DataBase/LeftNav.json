@@ -1,0 +1,34 @@
+[
+    {
+        "categorie":"Michael Blast",
+        "icon":"fa fa-bicycle"
+    },
+    {
+        "categorie":"Maison & cuisine",
+        "icon":"fa fa-kitchen-set"
+    },
+    {
+        "categorie":"Maison connectée",
+        "icon":"fa fa-house"
+    },
+    {
+        "categorie":"Téléphonie & Tablettes",
+        "icon":"fa fa-mobile"
+    },
+    {
+        "categorie":"Bébé",
+        "icon":"fa fa-baby"
+    },
+    {
+        "categorie":"Gaming",
+        "icon":"fa fa-gamepad"
+    },
+    {
+        "categorie":"Informatique",
+        "icon":"fa fa-laptop"
+    },
+    {
+        "categorie":"Accessoires",
+        "icon":"fa fa-headphones"
+    }
+]
